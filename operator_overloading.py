@@ -34,5 +34,3 @@ result = s1 + s2
 
 print(result.area())
 print(s1 > s2)
-
-   
